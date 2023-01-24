@@ -8,7 +8,7 @@ The class notebook supports two main roles:
 - defining the five base-truth tables to be created, and
 - creating artificial students, schools, courses, sections, and enrollment within the scope of the respective base-truth tables. Generation is based on user-input of the number of students and schools, and education level desired to be reflected in the generated test data.
 
-Class functionality and methods are clearly commented and outlined in the notebook.
+Class functionality and methods are clearly outlined in the notebook.
 
 ## [Base-Truth Table Generation Demo](https://github.com/microsoft/OpenEduAnalytics/blob/main/modules/module_test_data_generation_kit/notebook/test_data_gen_demo.ipynb)
 
