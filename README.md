@@ -14,7 +14,7 @@ This module test data generation kit aims to enable users to generate randomized
 
 The OEA test data generation kit uses five base-truth tables to artifically generate data for any module by creating the general data and then assigning the data source's proper column names. These base-truth table details are described below, which are defined within the [test data generation class notebook](https://github.com/microsoft/OpenEduAnalytics/blob/main/modules/module_test_data_generation_kit/notebook/test_data_generation_py.ipynb).
 
-**NOTE:**
+**Abbreviations**
 - SIS: School Information System
 - UUID: Universal Unique Identifier
 
